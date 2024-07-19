@@ -40,7 +40,7 @@ The Fresh Cart Ecommerce is a modern web application designed to simplify the pr
 * <b>Axios:</b> Making HTTP requests to fetch and submit data, handling asynchronous operations seamlessly.
 
 ### Meta Tag Management
-* <b>React-Helmet:</b> Managing changes to the document head to update meta tags, improving SEO and social media sharing.
+* <b>React-Helmet:</b> Managing changes to the document head to update meta tags, improving SEO.
 
 ### Token Management
 * <b>JWT-Decode:</b> Decoding JSON Web Tokens to manage user authentication and authorization.
